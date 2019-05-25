@@ -1,2 +1,2 @@
 # tributo
-pagina para aprender de nuevos codigos
+pagina para aprender y aplicar los codigos
